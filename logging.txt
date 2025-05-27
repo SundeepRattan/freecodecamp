@@ -1,0 +1,8 @@
+Your conversation log:
+Hello
+Hello! How can I assist you today?
+My name is Steve
+Hi Steve! It's nice to meet you. How can I assist you today?
+What's my name?
+Your name is Steve.
+End of conversation
